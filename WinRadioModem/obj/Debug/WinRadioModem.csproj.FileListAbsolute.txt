@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\bin\Debug\WinRadioModem.exe.config
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\bin\Debug\WinRadioModem.exe
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\bin\Debug\WinRadioModem.pdb
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.MainForm.resources
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.Properties.Resources.resources
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.exe
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.pdb
+C:\Users\user\source\repos\WinRadioModem\WinRadioModem\obj\Debug\WinRadioModem.csprojAssemblyReference.cache
